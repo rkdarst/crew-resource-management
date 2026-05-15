@@ -19,6 +19,7 @@ better - by making sure we can use all human resources to their best.
 
 In my training, you play as a crew working to operate a spaceship
 (think the bridge team in Star Trek), interspersed with my lessons.
+The game is not difficult but requires communication and teamwork.
 
 * We play the cooperative game [Empty
   Epsilon](https://daid.github.io/EmptyEpsilon/), which allows six
@@ -61,10 +62,16 @@ Many of these can be adjusted as needed.
 
 ## Gallery
 
-![Example of a team playing](static/team-2026.jpg)
+CRM cheatsheet (pdf above):
 
 <!--![CRM cheatsheet](static/CRM-cheatsheet.png)-->
 <img src="static/CRM-cheatsheet.png" alt="CRM cheatsheet PNG" style="width: 400px;">
+
+A team playing:
+
+![Example of a team playing](static/team-2026.jpg)
+
+Examples of the Empty Epsilon science and weapons stations:
 
 ![Empty Epsilon - science station](static/EE-science-1.png)
 
