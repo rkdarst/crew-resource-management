@@ -65,3 +65,7 @@ Many of these can be adjusted as needed.
 
 <!--![CRM cheatsheet](static/CRM-cheatsheet.png)-->
 <img src="static/CRM-cheatsheet.png" alt="CRM cheatsheet PNG" style="width: 400px;">
+
+![Empty Epsilon - science station](static/EE-science-1.png)
+
+![Empty Epsilon - weapons station](static/EE-weapons-1.png)
