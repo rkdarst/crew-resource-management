@@ -4,7 +4,9 @@ rkdarst's own [crew resource
 management](https://en.wikipedia.org/wiki/Crew_resource_management)
 training designed for office workers (the pilot users are university
 technical services).  The training is delivered as a cooperative game,
-interspersed with lessons and reflection.
+interspersed with lessons and reflection.  (Right now training is only
+delivered via the game, but by request I could probably come up with
+other lectures.)
 
 Professional teams have dedicated teamwork training known as "Crew
 resource management".  While we (university technical services and
@@ -48,10 +50,13 @@ Many of these can be adjusted as needed.
 
 ## Material
 
-* [CRM cheatsheet](static/CRM-cheatsheet.pdf)
-* [CRM cheatsheet (8up)](static/CRM-cheatsheet-8up.pdf), print "duplex
-  short edge"
-* [CRM training worksheet](static/CRM-training-worksheet.pdf)
+* CRM cheatsheet
+  * [CRM cheatsheet](static/CRM-cheatsheet.pdf), PDF A8 size
+  * [CRM cheatsheet (8up)](static/CRM-cheatsheet-8up.pdf), PDF A4
+    size, print "duplex
+    short edge"
+* [CRM training worksheet](static/CRM-training-worksheet.pdf), for use
+  during the game
 
 
 ## Gallery
