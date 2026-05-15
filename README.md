@@ -63,4 +63,5 @@ Many of these can be adjusted as needed.
 
 ![Example of a team playing](static/team-2026.jpg)
 
-![CRM cheatsheet](static/CRM-cheatsheet.png)
+<!--![CRM cheatsheet](static/CRM-cheatsheet.png)-->
+<img src="static/CRM-cheatsheet.png" alt="CRM cheatsheet PNG" style="width: 400px;">
