@@ -8,10 +8,10 @@ static/CRM-cheatsheet-meetings.pdf: ~/Downloads/CRM\ cheatsheet.pdf
 	pdfjam "$<" 2,3 -o $@
 
 static/CRM-cheatsheet-8up.pdf: ~/Downloads/CRM\ cheatsheet.pdf
-	pdfjam "$<" 2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1 --landscape --nup 4x2 -o $@
+	pdfjam "$<" 2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1 --paper a4paper --landscape --nup 4x2 -o $@
 
 static/CRM-cheatsheet-meetings-8up.pdf: ~/Downloads/CRM\ cheatsheet.pdf
-	pdfjam "$<" 2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3 --landscape --nup 4x2 -o $@
+	pdfjam "$<" 2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3 --paper a4paper --landscape --nup 4x2 -o $@
 
 pngs: static/CRM-cheatsheet.png
 
