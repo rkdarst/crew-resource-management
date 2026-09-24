@@ -1,10 +1,10 @@
 all: pdfs pngs
 
 # PNGs
-static/CRM-cheatsheet.png: ~/Downloads/CRM\ cheatsheet.svg
+static/CRM-cheatsheet.png: ~/Downloads/CRM\ cheatsheet.pdf
 	convert -density 300 "$<"[1] $@
 #	#inkscape --export-filename=$@ "$<" --export-width=1280
-static/CRM-cheatsheet-project-plan.png: ~/Downloads/CRM\ cheatsheet.svg
+static/CRM-cheatsheet-project-plan.png: ~/Downloads/CRM\ cheatsheet.pdf
 	convert -density 300 "$<"[2] $@
 
 
@@ -28,7 +28,9 @@ static/CRM-cheatsheet-meetings-8up.pdf: ~/Downloads/CRM\ cheatsheet.pdf
 static/CRM-cheatsheet-meetings-2up.pdf: ~/Downloads/CRM\ cheatsheet.pdf
 	pdfjam "$<" 2,2,3,3 --paper a4paper --landscape --nup 2x1 -o $@
 
-pngs: static/CRM-cheatsheet.png
+pngs: \
+	static/CRM-cheatsheet.png \
+	static/CRM-cheatsheet-project-plan.png
 
 pdfs: \
 	static/CRM-cheatsheet.pdf \
